@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I am a UI/UX designer, graphic designer, and Flutter developer who is very interested in new things related to technology. I have experience in designing and building mobile and web applications using Flutter and other frameworks. I also have the ability to design intuitive and attractive user interfaces and have a good understanding of graphic design principles. I am always interested in learning about new technologies and how to apply them in my work as a developer and designer.
+🙋‍♂️ I am a Flutter developer, interested in new things related to technology. I have experience in designing and building mobile and web applications using Flutter and other frameworks. I also have the ability to design intuitive and engaging user interfaces and have a good understanding of graphic design principles. I am always interested in learning about new technologies and how to apply them in my work as a developer and designer.
 
 
 ## 🌐 Socials:
